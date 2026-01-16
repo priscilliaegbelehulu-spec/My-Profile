@@ -11,8 +11,8 @@ I enjoy turning complex scientific measurements into actionable information usin
   
   • Visualization: 
   
-  • Geophysics: Magnetic data interpretation, Electrical resistivity interpretation, Mineral exploration, groundwater & environmental studies
+  • 🗺️Geophysics: Magnetic data interpretation, Electrical resistivity interpretation, Mineral exploration, groundwater & environmental studies📍
   
-  • Research: technical reporting, data interpretation
+  • 📖Research: technical reporting, data interpretation
 
 Visit my LinkedIn profile 👉 [here](https://www.linkedin.com/in/priscillia-egbelehulu-65268346/)
